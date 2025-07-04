@@ -1,11 +1,11 @@
 .main {
-    width: 95%;
-    height: 70%;
+    width: 90%;
+    height: 60%;
     /* border: 2px solid black; */
     display: flex;
     justify-self: center;
     align-items: center;
-    margin-top: 20vh;
+    margin-top: 5vh;
     border-radius: 30px;
     overflow: hidden;
 }
